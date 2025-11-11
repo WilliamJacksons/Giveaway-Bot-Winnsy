@@ -1,0 +1,39 @@
+Dear Wise Support Team,
+
+I am reaching out regarding a transaction that appears to have been duplicated. Below are the complete details for your review:
+
+Date of Transaction: 10 November 2025 at 14:37
+
+Transaction Amount: €1.53 EUR
+
+Item Purchased: Discord Nitro – 3 Month TRIAL Subscription Key GLOBAL
+
+Payment Method: Card ending in 4272, processed via PayPal account mailusa20000@gmail.com
+
+I have already contacted the merchant through their website on the same day (10 November 2025). Their support agent, Just Charles, responded with the following message:
+
+"Hello,
+Just Charles here.
+
+I understand that you're seeing a duplicate transaction in your payment method and would like to sort things out.
+
+I've carefully checked your order on our end and found that it was only one transaction on our side. It could've been duplicated due to a technical issue on your payment provider's side, but usually those transactions get reverted after some time.
+
+Please try checking it back after 24 hours and see if it's reverted. If not, I recommend reaching out to Wise directly for further assistance, since on our side it's only a single transaction.
+
+Thank you for understanding.
+
+Regards,
+Just Charles"
+
+The merchant confirmed that only a single transaction was processed on their end and suggested I contact Wise for further investigation.
+
+A screenshot of my correspondence with the merchant has been attached, showing the full conversation and their official response.
+
+Please review this case and assist in resolving the duplicate transaction issue.
+
+Thank you for your time and support.
+
+Kind regards,
+Oussama Hemissi
+Wise Account Email: arabdootcom@gmail.com
