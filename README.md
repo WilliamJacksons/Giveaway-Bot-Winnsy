@@ -109,4 +109,4 @@ Winnsy Bot uses 100% Slash Commands for a modern and integrated Discord experien
 🤝 Support
 Need help or have questions about the bot?
 
-Join the official Support Server for assistance!
+Join the official Support Server for assistance! https://discord.gg/4TmMSF7w5z
